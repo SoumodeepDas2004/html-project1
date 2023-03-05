@@ -1,0 +1,32 @@
+body{ background:linear-gradient(45deg,black,grey);
+      front-size:60px;
+     front-style:italic;
+front-family:Trebuchet MS;
+    color: white;
+front-weight:bold;
+text-align:center;
+ }
+
+input { color:white;
+      background-color: blue;
+      filter:saturate(200%);
+front-weight:bold;
+text-align:right;
+}
+.result{  background-color: yellow;
+color:black;
+front-weight:bold;
+front-size:70px;
+text-align:right;}
+.dis{  background:linear-gradient(45deg,grey,black);}
+#del{ 
+  width:75%;
+text-align:center;
+background-color:grey;
+color: black;
+ front-weight:bold;}
+
+#eq{  width:25%;
+ text-align:center;
+}
+
